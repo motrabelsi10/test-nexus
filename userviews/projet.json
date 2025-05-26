@@ -1,0 +1,41 @@
+{
+    "className": "org.joget.apps.userview.model.Userview",
+    "categories": [{
+        "className": "org.joget.apps.userview.model.UserviewCategory",
+        "menus": [{
+            "className": "org.joget.apps.userview.lib.HtmlPage",
+            "properties": {
+                "id": "e3656fed-d7ae-45ee-966f-603de642e900",
+                "label": "Welcome",
+                "customId": "welcome",
+                "content": "<div class=\"ui-welcome\"><h1>Apps and Workflow Made Simple<\/h1><p>&nbsp;<\/p><div class=\"icon\" style=\"margin-right: 20px; margin-bottom: 20px; float: left; clear: left\"><img src=\"#request.contextPath#/images/icon_idea.png\" alt=\"Build apps\" width=\"120\" height=\"85\"/><\/div><div class=\"message\"><h3>Build apps, not just processes!<\/h3><p>Create full-fledged apps with support for data records management.<\/p><\/div><p>&nbsp;<\/p><div class=\"icon\" style=\"margin-right: 20px; margin-bottom: 20px; float: left; clear: left\"><img src=\"#request.contextPath#/images/icon_rocket.png\" alt=\"Increased efficiency\" width=\"120\" height=\"85\"/><\/div><div class=\"message\"><h3>Increased Efficiency and Productivity<\/h3><p>Faster and more consistent completion of manual processes, and with minimal errors.<\/p><\/div><p>&nbsp;<\/p><div class=\"icon\" style=\"margin-right: 20px; margin-bottom: 20px; float: left; clear: left\"><img src=\"#request.contextPath#/images/icon_cost.png\" alt=\"Lowered cost\" width=\"120\" height=\"85\"/><\/div><div class=\"message\"><h3>Lowered Cost<\/h3><p>Employees can be guided through complex procedures, hence reducing the cost of training.<\/p><\/div><\/div>"
+            }
+        }],
+        "properties": {
+            "id": "category-EE74E4F4426241BD9BC3BC73B1D24AC7",
+            "label": "<i class='fa fa-home'><\/i> Home"
+        }
+    }],
+    "properties": {
+        "logoutText": "Logout",
+        "welcomeMessage": "#date.EEE, d MMM yyyy#",
+        "name": "projet",
+        "description": "",
+        "footerMessage": "Powered by Joget",
+        "id": "projet"
+    },
+    "setting": {"properties": {
+        "mobileViewDisabled": "",
+        "userviewDescription": "projet",
+        "mobileCacheEnabled": "",
+        "theme": {
+            "className": "org.joget.apps.userview.lib.Dx8TrimedaTheme",
+            "properties": {}
+        },
+        "permission": {
+            "className": "org.joget.apps.userview.lib.LoggedInUserPermission",
+            "properties": {}
+        },
+        "userviewName": "projet"
+    }}
+}
