@@ -75,6 +75,27 @@
                     "userviewCacheScope": "",
                     "readonlyLabel": "true"
                 }
+            },
+            {
+                "className": "org.joget.apps.userview.lib.DataListMenu",
+                "properties": {
+                    "cacheAllLinks": "",
+                    "customHeader": "",
+                    "keyName": "",
+                    "customFooter": "",
+                    "label": "Liste des personnes ",
+                    "enableOffline": "",
+                    "customId": "list_personne",
+                    "buttonPosition": "bothLeft",
+                    "datalistId": "personne",
+                    "checkboxPosition": "left",
+                    "selectionType": "multiple",
+                    "userviewCacheDuration": "20",
+                    "cacheListAction": "",
+                    "userviewCacheScope": "",
+                    "rowCount": "",
+                    "id": "A8A32457C8964ACA911A6C6829BDB39A"
+                }
             }
         ],
         "properties": {
