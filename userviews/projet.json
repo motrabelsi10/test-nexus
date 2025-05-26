@@ -55,7 +55,7 @@
                     "paramName": "",
                     "enableOffline": "",
                     "afterSavedReloadTarget": "true",
-                    "customId": "personne_form",
+                    "customId": "form_personne",
                     "showInPopupDialog": "",
                     "readonly": "",
                     "cancelButtonLabel": "",
